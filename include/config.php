@@ -11,7 +11,7 @@ $GLOBALS['app_name'] = 'Merit Master';
 $GLOBALS['db_host'] = 'mysql-mastermerit.j.layershift.co.uk';//host link
 $GLOBALS['db_name'] = 'meritmaster';
 $GLOBALS['db_user'] = 'root';
-$GLOBALS['db_password'] = '7AmjYU2FY4THMJz4';
+$GLOBALS['db_password'] = 'Qj6ZAyBBIv';
 
 //Facebook app data
 $GLOBALS['fb_app_id'] = '136007779917166';
