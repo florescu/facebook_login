@@ -3,12 +3,12 @@
 START settings
 */
 
-$GLOBALS['app_domain_url'] = 'http://http://mastermerit.j.layershift.co.uk'; //ex: http://yougapi.com
+$GLOBALS['app_domain_url'] = 'http://mastermerit.j.layershift.co.uk'; //ex: http://yougapi.com
 $GLOBALS['app_folder'] = ''; //ex: /products/facebook_login
 $GLOBALS['app_name'] = 'Merit Master';
 
 //database access
-$GLOBALS['db_host'] = 'mysql-mastermerit.j.layershift.co.uk';//host link
+$GLOBALS['db_host'] = 'http://mysql-mastermerit.j.layershift.co.uk';//host link
 $GLOBALS['db_name'] = 'meritmaster';
 $GLOBALS['db_user'] = 'root';
 $GLOBALS['db_password'] = 'Qj6ZAyBBIv';
